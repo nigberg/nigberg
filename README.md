@@ -29,6 +29,8 @@ Open to frontend or fullstack role offers.
 ### Contact me:
 **[LinkedIn](https://www.linkedin.com/in/nigberg)**  
 **[Facebook](https://www.facebook.com/nigberg)**
+---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nigberg&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **nigberg/nigberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
