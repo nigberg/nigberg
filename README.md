@@ -27,7 +27,8 @@ Open to frontend or fullstack role offers.
 - Eclipse
 ---
 ### Contact me:
-**[LinkedIn](https://www.linkedin.com/in/nigberg)**
+**[LinkedIn](https://www.linkedin.com/in/nigberg)**  
+**[Facebook](https://www.facebook.com/nigberg)**
 
 <!--
 **nigberg/nigberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
