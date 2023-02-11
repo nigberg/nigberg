@@ -1,5 +1,5 @@
-# Hi there! My name is Meir Nigberg 👋
-## High motivated fullstack web developer with a great passion for coding and learning new topics
+### Hi there! My name is Meir Nigberg 👋
+#### High motivated fullstack web developer with a great passion for coding and learning new topics
 
 <!--
 **nigberg/nigberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
